@@ -4,7 +4,7 @@ Let’s break it down step-by-step so you can see how this would work:
 
 ---
 
-## **1. Structure of the Asset**
+## **Structure of the Asset**
 
 * **Underlying RWA:** Residential or commercial property portfolio.
 * **Occupancy model:** Tenants pay rent that **declines over time** because a portion of each payment **buys equity** in the property they occupy.
@@ -12,7 +12,7 @@ Let’s break it down step-by-step so you can see how this would work:
 
 ---
 
-## **2. Tokenization Mechanics**
+## **Tokenization Mechanics**
 
 * **Property ownership:** Held by an SPV (Special Purpose Vehicle) or trust.
 * **Token issuance:**
@@ -30,7 +30,7 @@ Let’s break it down step-by-step so you can see how this would work:
 
 ---
 
-## **3. Investor Attraction Despite Declining Rent**
+## **Investor Attraction Despite Declining Rent**
 
 Investors are still drawn in because:
 
@@ -41,7 +41,7 @@ Investors are still drawn in because:
 
 ---
 
-## **4. Possible Enhancements in DeFi**
+## **Possible Enhancements in DeFi**
 
 * **Liquidity pools for RWA tokens** — investors can exit before full tenant buyout by selling into a pool.
 * **Token incentives** — early investors could receive governance tokens for the RWA platform, adding non-rent yield.
@@ -49,7 +49,7 @@ Investors are still drawn in because:
 
 ---
 
-## **5. Example Flow**
+## **Example Flow**
 
 1. SPV buys a \$500k house.
 2. Investor pool funds the purchase via RWA equity tokens.
@@ -79,7 +79,7 @@ Let’s zoom in on the **liquidity pool (LP) for RWA tokens** idea and think thr
 
 ---
 
-## **1. How the Liquidity Pool Works**
+## **How the Liquidity Pool Works**
 
 * **Token type:** Each property (or property bundle) is represented by *Equity Tokens* (fractional ownership) tied to the underlying real estate.
 * **Who supplies liquidity:**
@@ -97,7 +97,7 @@ Let’s zoom in on the **liquidity pool (LP) for RWA tokens** idea and think thr
 
 ---
 
-## **2. Investor Experience**
+## **Investor Experience**
 
 Without a liquidity pool, exiting early would require finding a buyer OTC or waiting until the tenant buys out.
 With a pool:
@@ -108,7 +108,7 @@ With a pool:
 
 ---
 
-## **3. Housing/Rental Price Impact Over Time**
+## **Housing/Rental Price Impact Over Time**
 
 This is where it gets interesting. The LP mechanism has second-order effects on the real estate market:
 
@@ -153,7 +153,7 @@ This is where it gets interesting. The LP mechanism has second-order effects on 
 
 ---
 
-## **4. Net Effect on Housing & Rent Prices**
+## **Net Effect on Housing & Rent Prices**
 
 * **Rent:**
 
@@ -175,7 +175,7 @@ Let’s break this down.
 
 ---
 
-## **1. Why This Could Replace Mortgages**
+## **Why This Could Replace Mortgages**
 
 Mortgages =
 
@@ -202,7 +202,7 @@ Because there’s no debt, you sidestep:
 
 ---
 
-## **2. Why This Could Replace Tokenized MBS**
+## **Why This Could Replace Tokenized MBS**
 
 Tokenized MBS =
 
@@ -222,7 +222,7 @@ In some ways, RTO pools are *easier* to model than MBS because:
 
 ---
 
-## **3. Practical Advantages Over Mortgages**
+## **Practical Advantages Over Mortgages**
 
 * **Investor liquidity:**
   With an on-chain liquidity pool for fractional ownership tokens, investor exit is much easier than selling a mortgage note.
@@ -233,7 +233,7 @@ In some ways, RTO pools are *easier* to model than MBS because:
 
 ---
 
-## **4. Potential System-Level Impacts**
+## **Potential System-Level Impacts**
 
 If this became widespread:
 
@@ -244,7 +244,7 @@ If this became widespread:
 
 ---
 
-## **5. Challenges**
+## **Challenges**
 
 * **Regulation:** Securities laws + real estate laws would need to adapt.
 * **Tax treatment:** Ownership transfer over time could trigger property tax complexities.
@@ -267,7 +267,7 @@ Here’s a detailed breakdown of what could happen once these tokens have deep l
 
 ---
 
-## **1. Lending & Borrowing Markets**
+## **Lending & Borrowing Markets**
 
 * **Collateralized Loans:**
 
@@ -282,7 +282,7 @@ Here’s a detailed breakdown of what could happen once these tokens have deep l
 
 ---
 
-## **2. Real Estate Yield Farming**
+## **Real Estate Yield Farming**
 
 * **LP Incentives:**
 
@@ -296,7 +296,7 @@ Here’s a detailed breakdown of what could happen once these tokens have deep l
 
 ---
 
-## **3. Structured Products & Tranching**
+## **Structured Products & Tranching**
 
 * **Risk Splitting:**
 
@@ -310,7 +310,7 @@ Here’s a detailed breakdown of what could happen once these tokens have deep l
 
 ---
 
-## **4. Options & Futures on RTO Tokens**
+## **Options & Futures on RTO Tokens**
 
 * **Call/Put Options:**
 
@@ -324,7 +324,7 @@ Here’s a detailed breakdown of what could happen once these tokens have deep l
 
 ---
 
-## **5. Tokenized Index Funds**
+## **Tokenized Index Funds**
 
 * **Real Estate Index:**
 
@@ -338,7 +338,7 @@ Here’s a detailed breakdown of what could happen once these tokens have deep l
 
 ---
 
-## **6. Cross-Chain Real Estate Arbitrage**
+## **Cross-Chain Real Estate Arbitrage**
 
 * **Mechanism:**
 
@@ -349,7 +349,7 @@ Here’s a detailed breakdown of what could happen once these tokens have deep l
 
 ---
 
-## **7. Stablecoin Issuance Backed by RTO Tokens**
+## **Stablecoin Issuance Backed by RTO Tokens**
 
 * **RTO-backed Stablecoin:**
 
@@ -363,7 +363,7 @@ Here’s a detailed breakdown of what could happen once these tokens have deep l
 
 ---
 
-## **8. Insurance & Hedging Protocols**
+## **Insurance & Hedging Protocols**
 
 * **Default Protection Pools:**
 
@@ -374,7 +374,7 @@ Here’s a detailed breakdown of what could happen once these tokens have deep l
 
 ---
 
-## **9. Fractional & Social Ownership DAOs**
+## **Fractional & Social Ownership DAOs**
 
 * **Neighborhood DAOs:**
 
@@ -400,7 +400,7 @@ And if they did, they could reshape the real estate market in profound ways over
 
 ---
 
-## **1. How #3 and #7 Feed Each Other**
+## **How #3 and #7 Feed Each Other**
 
 ### **Step 1 — RTO Token Pools Are Created**
 
@@ -427,7 +427,7 @@ And if they did, they could reshape the real estate market in profound ways over
 
 ---
 
-## **2. Feedback Loop — The Symbiotic Cycle**
+## **Feedback Loop — The Symbiotic Cycle**
 
 1. **More Properties** → More RTO contracts → Bigger pools.
 2. **Bigger Pools** → More senior tranches to use as stablecoin collateral.
@@ -438,7 +438,7 @@ This is exactly how **mortgage-backed securities fueled the mortgage market** pr
 
 ---
 
-## **3. Long-Term Effects on Real Estate Market**
+## **Long-Term Effects on Real Estate Market**
 
 ### **Upward Pressure on Housing Prices**
 
@@ -471,7 +471,7 @@ This is exactly how **mortgage-backed securities fueled the mortgage market** pr
 
 ---
 
-## **4. Potential Risks**
+## **Potential Risks**
 
 * **Collateral Shock:** If housing prices drop sharply, stablecoin collateral values could fall, triggering liquidations and fire sales — a crypto-native version of a housing crash.
 * **Over-Financialization:** Housing could be bought more for its *token collateral value* than for providing shelter, worsening affordability.
@@ -491,7 +491,7 @@ Here are some concrete incentive mechanisms and protocol designs to discourage p
 
 ---
 
-### 1. **Dynamic Yield Adjustments Based on Occupancy & Tenant Stability**
+### **Dynamic Yield Adjustments Based on Occupancy & Tenant Stability**
 
 * **Mechanism:**
 
@@ -505,7 +505,7 @@ Here are some concrete incentive mechanisms and protocol designs to discourage p
 
 ---
 
-### 2. **Affordability-Linked Rewards or Penalties**
+### **Affordability-Linked Rewards or Penalties**
 
 * **Mechanism:**
 
@@ -519,7 +519,7 @@ Here are some concrete incentive mechanisms and protocol designs to discourage p
 
 ---
 
-### 3. **Time-Weighted Voting Power for Governance Tokens**
+### **Time-Weighted Voting Power for Governance Tokens**
 
 * **Mechanism:**
 
@@ -533,7 +533,7 @@ Here are some concrete incentive mechanisms and protocol designs to discourage p
 
 ---
 
-### 4. **Collateral Quality Adjusted Stablecoin Minting Limits**
+### **Collateral Quality Adjusted Stablecoin Minting Limits**
 
 * **Mechanism:**
 
@@ -547,7 +547,7 @@ Here are some concrete incentive mechanisms and protocol designs to discourage p
 
 ---
 
-### 5. **Slashing or Fee Mechanisms for Speculative Behavior**
+### **Slashing or Fee Mechanisms for Speculative Behavior**
 
 * **Mechanism:**
 
@@ -561,7 +561,7 @@ Here are some concrete incentive mechanisms and protocol designs to discourage p
 
 ---
 
-### 6. **Tenant Participation Incentives**
+### **Tenant Participation Incentives**
 
 * **Mechanism:**
 
@@ -575,7 +575,7 @@ Here are some concrete incentive mechanisms and protocol designs to discourage p
 
 ---
 
-### 7. **Community-Owned Token Tranches**
+### **Community-Owned Token Tranches**
 
 * **Mechanism:**
 
